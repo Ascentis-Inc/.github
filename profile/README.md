@@ -43,4 +43,46 @@ This repository hosts documentation, resources, and collaborative projects acros
 ---
 
 ## 📁 Repository Structure  
+📌 Ascentis/
+├── 📂 documentation/
+│   ├── 📑 policies.md
+│   └── 📑 governance.md
+├── 📂 compliance/
+│   ├── 📑 cybersecurity.md
+│   └── 📑 data_privacy.md
+├── 📂 subsidiaries/
+│   ├── 📂 SpecterOps/
+│   ├── 📂 DarkDesireChronicles/
+│   ├── 📂 SavageAffectionMedia/
+│   └── 📂 GuardHeart/
+├── 📂 branding_assets/
+│   └── 📑 logos_brand_guidelines.md
+└── 📑 README.md
+---
+
+## 🤝 Contributing  
+
+Contributions and collaboration are welcome from all team members and partners.
+
+- Please submit changes via **Pull Requests**.
+- Clearly document commits and follow repository guidelines.
+- Maintain security and adhere to compliance policies.
+
+---
+
+## 📄 Licensing  
+
+All content within this repository is **proprietary and confidential**. For licensing, collaboration opportunities, or inquiries, contact:
+
+📧 **info@ascentis.com**  
+
+---
+
+## 🌐 Connect With Us  
+
+- **Website:** [Coming Soon]  
+- **Instagram:** [@the.ryan.wanderlust](https://instagram.com/the.ryan.wanderlust)  
+- **Email:** [Your Contact Email]  
+
+Thank you for your interest in **Ascentis Inc.** — **Empowering Businesses, Elevating Innovation.** 🚀
 
