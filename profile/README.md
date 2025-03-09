@@ -6,7 +6,7 @@ Welcome to the official GitHub repository for **Ascentis Inc.**, a diversified h
 
 ## 🚀 About Ascentis
 
-Founded by **Petya Yordanova (CEO)** and **Patrick Ryan (COO)**, Ascentis Inc. operates as an umbrella corporation overseeing multiple forward-thinking subsidiaries:
+Ascentis Inc. operates as an umbrella corporation overseeing multiple forward-thinking subsidiaries:
 
 ### 🔹 **SpecterOps LLC**
 - Cybersecurity, AV solutions, and advanced security technologies.
