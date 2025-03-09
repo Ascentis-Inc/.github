@@ -80,9 +80,9 @@ All content within this repository is **proprietary and confidential**. For lice
 
 ## 🌐 Connect With Us  
 
-- **Website:** [Coming Soon]  
+- **Website:** [https://ascentis.io](https://ascentis.io)  
 - **Instagram:** [@the.ryan.wanderlust](https://instagram.com/the.ryan.wanderlust)  
-- **Email:** [Your Contact Email]  
+- **Email:** ascentis@pm.me 
 
 Thank you for your interest in **Ascentis Inc.** — **Empowering Businesses, Elevating Innovation.** 🚀
 
