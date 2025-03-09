@@ -43,21 +43,21 @@ This repository hosts documentation, resources, and collaborative projects acros
 ---
 
 ## 📁 Repository Structure  
-📌 Ascentis/
-├── 📂 documentation/
-│   ├── 📑 policies.md
-│   └── 📑 governance.md
-├── 📂 compliance/
-│   ├── 📑 cybersecurity.md
-│   └── 📑 data_privacy.md
-├── 📂 subsidiaries/
-│   ├── 📂 SpecterOps/
-│   ├── 📂 DarkDesireChronicles/
-│   ├── 📂 SavageAffectionMedia/
-│   └── 📂 GuardHeart/
-├── 📂 branding_assets/
-│   └── 📑 logos_brand_guidelines.md
-└── 📑 README.md
+- 📌 **Ascentis/**
+  - 📂 **documentation/**
+    - 📑 policies.md
+    - 📑 governance.md
+  - 📂 **compliance/**
+    - 📑 cybersecurity.md
+    - 📑 data_privacy.md
+  - 📂 **subsidiaries/**
+    - 📂 SpecterOps/
+    - 📂 DarkDesireChronicles/
+    - 📂 SavageAffectionMedia/
+    - 📂 GuardHeart/
+  - 📂 **branding_assets/**
+    - 📑 logos_brand_guidelines.md
+  - 📑 README.md
 ---
 
 ## 🤝 Contributing  
