@@ -74,7 +74,6 @@ Contributions and collaboration are welcome from all team members and partners.
 
 All content within this repository is **proprietary and confidential**. For licensing, collaboration opportunities, or inquiries, contact:
 
-📧 **info@ascentis.com**  
 
 ---
 
